@@ -33,7 +33,8 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-font"
     ],
     "experiments": {
       "typedRoutes": true
@@ -45,6 +46,7 @@
       "eas": {
         "projectId": "c451614c-32ee-4f8f-86e1-64c4ee92b58d"
       }
-    }
+    },
+    "owner": "souvik8582"
   }
 }
